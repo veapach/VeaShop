@@ -4,4 +4,4 @@
 🛒 Управление магазином  
 💳 Оплата на Юкасса  
 
-##🛠️ Стэк проекта: Next.js, Shadcn UI, Tailwind, Redux Toolkit, Nest.js, PostgreSQL, Prisma, TypeScript
+### 🛠️ Стэк проекта: Next.js, Shadcn UI, Tailwind, Redux Toolkit, Nest.js, PostgreSQL, Prisma, TypeScript
